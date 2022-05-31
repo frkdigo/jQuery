@@ -1,0 +1,17 @@
+body{
+    background-color: yellowgreen;
+}
+table{
+    width: 100%;
+    background-color: white;
+}
+.cimsor{
+    font-weight: bold;
+    font-size: 20px;
+}
+h2{
+    background-color: red;
+}
+td{
+    padding: 20px;
+}
